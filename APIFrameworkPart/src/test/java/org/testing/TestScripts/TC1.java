@@ -15,6 +15,7 @@ import org.testng.annotations.Test;
 import com.jayway.restassured.response.Response;
 
 //TC -------------- Post Request
+//Changes done now
 
 public class TC1 {
 	
@@ -26,7 +27,7 @@ public class TC1 {
 		
 		Random r = new Random();
 		Integer i  = r.nextInt();
-		System.out.println(i);
+		System.out.println("random id is"+ i);
 		
 		
 		JSONObject data = new JSONObject();
