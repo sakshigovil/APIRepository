@@ -22,7 +22,6 @@ public class TC1 {
 	static String idValue;
 
 	@Test 
-	
 	public void testCase1() throws IOException {
 		
 		Random r = new Random();
@@ -31,7 +30,7 @@ public class TC1 {
 		
 		
 		JSONObject data = new JSONObject();
-		data.put("firstname", "Bhuvanendra");
+		data.put("firstname", "KiritSona");
 		data.put("lastname", "Shukla");
 		data.put("id", i.toString());
 		data.put("designation", "QA Lead");

@@ -23,7 +23,7 @@ public class TC4 {
 	Response res = http.deleteRequest("QA_URI","KJD");
 	
 	System.out.println("Fourth Test Case");
-	System.out.println("Status code is "+res.getStatusCode());
+	System.out.println("Status code is "+ res.getStatusCode());
 	ResponseValidation.responseStatusCodeValidate(202, res);
 	
 	}

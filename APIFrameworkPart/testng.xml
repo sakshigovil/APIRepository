@@ -4,11 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="org.testing.TestScripts.TC1"/>
-      <class name="org.testing.TestScripts.TC2"/>
-      <class name="org.testing.TestScripts.TC3"/>
-      <class name="org.testing.TestScripts.TC4"/>
-      <class name="org.testing.TestScripts.TC5"/>
-
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
