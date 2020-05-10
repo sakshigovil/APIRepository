@@ -9,7 +9,7 @@ public class Class1 {
 	@Test
 	public void Method1()
 	{
-		System.out.println("This is Test Method1");
+		System.out.println("This is commit and push Test Method1");
 	}
 	
 	@BeforeTest
