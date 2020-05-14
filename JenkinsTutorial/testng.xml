@@ -3,9 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="GitHubJenkinsTutorial.JenkinsTutorial.GreetingControllerTest"/>
       <class name="GitHubJenkinsTutorial.JenkinsTutorial.Class1"/>
-      <class name="GitHubJenkinsTutorial.JenkinsTutorial.AppTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
